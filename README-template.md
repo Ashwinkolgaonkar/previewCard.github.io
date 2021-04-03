@@ -21,7 +21,7 @@ Users should be able to:
 
 ### Screenshot
 
-![](./design\active-states.jpg)
+<img href="design\active-states.jpg">
 
 
 
