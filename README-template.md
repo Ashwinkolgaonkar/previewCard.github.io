@@ -21,8 +21,7 @@ Users should be able to:
 
 ### Screenshot
 
-see in the design folder
-design\active-states.jpg
+![](./design\active-states.jpg)
 
 
 
