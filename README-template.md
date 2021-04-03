@@ -21,7 +21,7 @@ Users should be able to:
 
 ### Screenshot
 
-![screenshoot](C:\Users\Aniket\Documents\GitHub\previewCard.github.io\desktop-design.jpg)
+![screenshoot](desktop-design.jpg)
 
 
 
