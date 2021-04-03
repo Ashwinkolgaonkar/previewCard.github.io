@@ -1,2 +1,0 @@
-# previewCard.github.io
- 
