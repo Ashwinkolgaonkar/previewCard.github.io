@@ -22,13 +22,14 @@ Users should be able to:
 ### Screenshot
 
 ![screenshoot](desktop-design.jpg)
+![screenshoot2](mobile-design.jpg)
 
 
 
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
+- Solution URL: [https://github.com/Ashwinkolgaonkar/previewCard.github.io](https://your-solution-url.com)
 - Live Site URL: [Add live site URL here](https://your-live-site-url.com)
 
 
