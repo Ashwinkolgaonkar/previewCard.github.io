@@ -21,7 +21,7 @@ Users should be able to:
 
 ### Screenshot
 
-<img href="design\active-states.jpg">
+<img src="design\active-states.jpg"alt="sreenshoot">
 
 
 
