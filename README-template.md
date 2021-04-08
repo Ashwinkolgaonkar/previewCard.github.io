@@ -30,7 +30,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: [https://github.com/Ashwinkolgaonkar/previewCard.github.io](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Live Site URL: [https://focused-mirzakhani-1d0f2b.netlify.app](https://your-live-site-url.com)
 
 
 ### Built with
